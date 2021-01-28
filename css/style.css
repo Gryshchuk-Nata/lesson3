@@ -1,0 +1,71 @@
+/* Стили обнуления */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+.header {
+	font-size: 26px;
+	color: red;
+}
+
+.nav {
+	font-size: 22px;
+	color: royalblue;
+}
+
+.list_num {
+	font-size: 25px;
+	color: rgb(36, 128, 0);
+	margin-left: 50px;
+}
+
+p {
+	color: black;
+}
+
+p span {
+	color: indianred;
+}
+
+li span {
+	color: blueviolet;
+}
+li {
+	color: rgb(114, 110, 110);
+	margin: 20px;
+}
+
+h2 {
+	color: cadetblue;
+	font-size: 30px;
+}
+h3 {
+	color: darkblue;
+	font-size: 26px;
+}
