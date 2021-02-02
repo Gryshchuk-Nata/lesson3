@@ -29,22 +29,6 @@ img {
 	vertical-align: top;
 }
 
-.header {
-	font-size: 26px;
-	color: red;
-}
-
-.nav {
-	font-size: 22px;
-	color: royalblue;
-}
-
-.list_num {
-	font-size: 25px;
-	color: rgb(36, 128, 0);
-	margin-left: 50px;
-}
-
 p {
 	color: black;
 }
@@ -68,4 +52,48 @@ h2 {
 h3 {
 	color: darkblue;
 	font-size: 26px;
+}
+
+.text {
+	color: chartreuse;
+}
+
+.header {
+	font-size: 26px;
+	color: red;
+}
+
+.nav {
+	font-size: 22px;
+	color: royalblue;
+}
+
+.list_num {
+	font-size: 25px;
+	color: rgb(36, 128, 0);
+	margin-left: 50px;
+}
+
+.paragraph {
+	color: darkgreen;
+}
+
+span.paragraph {
+	color: darkred;
+}
+
+#brown {
+	color: rgb(53, 33, 33);
+}
+
+#blue {
+	color: blue;
+}
+
+.text .item {
+	color: cornflowerblue;
+}
+
+.list_span span {
+	color: rgb(12, 15, 204);
 }
